@@ -1,0 +1,4 @@
+link del repositorio= https://github.com/josegabriel-jr/implementacion_booststrap_1151693.git
+link de github pages= https://josegabriel-jr.github.io/implementacion_booststrap_1151693/
+Nombre = Jose Gabriel Jaimes Rodriguez
+codigo = 1151693
